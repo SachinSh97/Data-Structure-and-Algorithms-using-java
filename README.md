@@ -8,7 +8,7 @@ Language of implementation is Java.
 <ol>
 <h3><li>Array</li></h3>
 <ul>
-<li>Question 1</li>
+  <li><a href="https://github.com/SachinSh97/Data-Structure-and-Algorithms-using-java/blob/master/Data%20Structure's/Array/Program%20for%20array%20rotation.java">Program for Array Rotation</a></li>
 <li>Question 2</li>
 <li>Question 3</li>
 <li>Question 4</li>
