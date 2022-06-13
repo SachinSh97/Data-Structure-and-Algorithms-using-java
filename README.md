@@ -7,9 +7,10 @@ Language of implementation is Java.
 
 <ol>
 <h3><li>Array</li></h3>
+<p>Arrays are the simple data structure for storing lots of similar items.</p>
 <ul>
   <li><a href="https://github.com/SachinSh97/Data-Structure-and-Algorithms-using-java/blob/master/Data%20Structure's/Array/Program%20for%20array%20rotation.java">Program for Array Rotation</a></li>
-<li>Question 2</li>
+  <li><a href="https://github.com/SachinSh97/Data-Structure-and-Algorithms-using-java/blob/master/Data%20Structure's/Array/Max%20Consecutive%20Ones.java">Max Consecutive One's</a></li>
 <li>Question 3</li>
 <li>Question 4</li>
 <li>Question 5</li>
