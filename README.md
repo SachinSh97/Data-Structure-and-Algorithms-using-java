@@ -13,6 +13,7 @@ Language of implementation is Java.
   <li><a href="https://github.com/SachinSh97/Data-Structure-and-Algorithms-using-java/blob/master/Data%20Structure's/Array/Max%20Consecutive%20Ones.java">Max Consecutive One's</a></li>
   <li><a href="https://github.com/SachinSh97/Data-Structure-and-Algorithms-using-java/blob/master/Data%20Structure's/Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits.java">Find Numbers with Even Number of Digits</a></li>
   <li><a href="https://github.com/SachinSh97/Data-Structure-and-Algorithms-using-java/blob/master/Data%20Structure's/Array/Squares%20of%20a%20sorted%20array.java">Squares of a sorted array</a></li>
+  <li><a href="https://github.com/SachinSh97/Data-Structure-and-Algorithms-using-java/blob/master/Data%20Structure's/Array/Duplicate%20Zeros.java">Duplicate Zeros</a></li>
 
 <li>Question 4</li>
 <li>Question 5</li>
